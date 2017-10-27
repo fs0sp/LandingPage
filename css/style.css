@@ -1,0 +1,151 @@
+html,body{
+		margin: 0;
+		padding: 0;
+		height: 100%;
+		width: 100%;
+	
+		}
+	
+	.inner{
+		
+		background-image: url(../img/image.png);
+		height: 100%;
+		width: 100%;
+		margin: auto;
+		background-repeat: no-repeat;
+		background-size: cover;
+		display: table;
+		top: 0;
+		background-attachment: fixed;
+		
+	}
+	
+	.black{
+		
+		height: 100%;
+		width: 100%;
+	}
+	
+	.content{
+		text-align: center;
+		margin: 0;
+		padding-top: 15%;
+		
+		
+	
+	}
+	
+	.content h2{
+		
+		font-family: oswald;
+		color: white;
+		font-size: 40px;
+		
+		
+	}
+	
+	.button{
+		border-radius: 10px;
+		font-family: fantasy;
+		color: cornflowerblue;
+		font-size: 25px;
+		padding: 20px 20px;
+		border: 3px solid cornflowerblue;
+		text-transform: uppercase;
+		text-decoration: none;
+		
+		
+	}
+	
+	.button:hover{
+		color: #fff;
+		border: 3px solid white;
+		
+	}
+
+.data{
+		text-align: center;
+		color: black;
+		background-color: darkslategrey;
+	    display: table;
+		
+
+}
+
+.data h1{
+	
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	
+}
+
+.middle{
+
+		height: 300px;
+		width: 100%;
+		background-image: url(../img/middle.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		display: table;
+		background-attachment: fixed;
+		
+}
+
+.middle h1{
+	
+	text-align: center;
+	font-family: oswald;
+	color: white;
+	margin-top: 150px;
+	
+	
+	
+}
+
+.footer h1{
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	padding-top: 30px;
+}
+
+.footer img{
+
+	padding-left: 100px;
+     
+	
+}
+
+.footer{
+		
+	height: 300px;
+	background-color: #283747;
+	display: table;
+	width: 100%;
+	background-image: url(../img/image2.jpg);
+	background-attachment: fixed;
+}
+
+
+.fb{
+	margin-left: 350px;
+}
+
+.ig{
+	margin-left: 30px;
+}
+
+.tw{
+	margin-left: 30px;
+}
+
+.yt{
+
+	margin-left: 30px;
+}
+
+
+
+
+
